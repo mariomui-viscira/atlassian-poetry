@@ -1,0 +1,17 @@
+attrs @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/8a/20/d8/49f3d5f26513035af1c50bc2e32038c9e94776088f23ef7b12a2629c76/attrs-21.4.0-py2.py3-none-any.whl
+docutils==0.18.1
+importlib-metadata @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/9c/74/bb/e6a067d1a8a425115b1f1f463691d5cfa9426b80d09dc26379217d8ddc/importlib_metadata-4.11.1-py3-none-any.whl
+more-itertools @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/dc/b9/d2/feeca1608f320ecfc78cf6e2861526ca9aecbb52cd2446b6d075dd6649/more_itertools-8.12.0-py3-none-any.whl
+packaging @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/e7/69/d8/c898ce544c13176aff1086ce98482795d26eba3a19ba8b061818e93f71/packaging-21.3-py3-none-any.whl
+pendulum @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/f3/67/74/5370c2dfb772d2882b96db67e433cca32c92a4679e7068fb0dca6c902c/pendulum-2.1.2-cp37-cp37m-macosx_10_15_x86_64.whl
+pluggy @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/bc/2e/c9/c04063460a7a68d2e59c9ea0a673de9d7930d54f788ed0510cdcf8aa78/pluggy-0.13.1-py2.py3-none-any.whl
+poetry-demo==0.1.0
+py @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/77/d8/b6/ed4363fe675755db81377dcfd5156902eb663233f55f9931c01ec8c653/py-1.11.0-py2.py3-none-any.whl
+pyparsing @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/ae/f9/6f/66e18096a6df9e18c4b1b6d550217333ebc7e9a0485cfd4aa743b23e67/pyparsing-3.0.7-py3-none-any.whl
+pytest @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/a8/5a/78/7536a0da5c14b85637968b588ecf3bde096ce084658eab4180c94412fa/pytest-5.4.3-py3-none-any.whl
+python-dateutil @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/d2/fb/ee/ecc11db0021748d60d044d56136ac57b2966285acebeeb91c73f0fbb14/python_dateutil-2.8.2-py2.py3-none-any.whl
+pytzdata @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/c8/b2/aa/5743db2f49297fa4427101a5feab4033aa90b23e86093f451ac6d77718/pytzdata-2020.1-py2.py3-none-any.whl
+six @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/47/d6/38/2a119d44e2e9b7250f9584910ca87b2b0a3895dd07686c39351d2bb536/six-1.16.0-py2.py3-none-any.whl
+typing_extensions @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/f3/8f/ed/dd596a0e00fc8e22ecfd15c7484acea49dbdf540a136b86becb37438a3/typing_extensions-4.1.1-py3-none-any.whl
+wcwidth @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/92/12/86/71fde978823bd982c22bd549b0ba688e372403269396c892ac8160f4fe/wcwidth-0.2.5-py2.py3-none-any.whl
+zipp @ file:///Users/ykmmui1/Library/Caches/pypoetry/artifacts/f9/d5/05/86d17558915a17d88c4b1313fe53c8907d8a38f82d749c68420edc145d/zipp-3.7.0-py3-none-any.whl
