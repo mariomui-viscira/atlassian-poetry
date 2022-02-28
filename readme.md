@@ -32,7 +32,7 @@
   * settings.json
     * set `"python.terminal.activateEnvironment": false,`
   * If you don't do this vscode will go ignore your python environment when you reopen your terminal within vscode.
-*
+* testing issues
 ---
 
 ## References
