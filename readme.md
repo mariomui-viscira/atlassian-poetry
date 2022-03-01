@@ -35,6 +35,23 @@
 * testing issues
 ---
 
+## When Updating
+
+* Dependencies
+  * poetry toml change
+    * go to the dependency and bump up
+    * might need a poetry install (in the shell)
+  * poetry lock change
+* Updating python
+  * in root `pyenv local [new version]`
+  * poetry toml manual change
+  * poetry lock change
+    * `poetry lock` auto generates
+* Keep in Minds
+  * $HOME/Library/Caches/pypoetry/virtualenvs is where you have your virtualenvs
+  * `poetry env info`
+  * Upgrading within versions doesn't give you the requisite update in the env. poetry-demo-hash-py3.7 will not turn to poetry-demo-hash3.7.9, poetry reuses it.
+  
 ## References
 
 <https://github.com/Microsoft/vscode-python/issues/3066>
