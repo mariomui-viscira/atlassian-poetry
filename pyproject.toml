@@ -4,6 +4,9 @@ version = "0.1.0"
 description = ""
 authors = ["mariomui"]
 
+[tool.poetry.scripts]
+tasktest = "poetry_demo.scripts.task_test:cli"
+
 [tool.poetry.dependencies]
 python = "^3.7.9"
 pendulum = "^2.1.2"

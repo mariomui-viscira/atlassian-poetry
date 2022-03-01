@@ -55,3 +55,16 @@
 ## References
 
 <https://github.com/Microsoft/vscode-python/issues/3066>
+
+## NEED TO make scripts for these
+
+* console out the requirements that poetry is doing in a ez to read manner
+  * (no dev dependencies)
+    * `poetry export --without-hashes | while IFS=  read -r line; do  echo $line | sed -e 's/;.*$//' ; done`
+  * (with dev dependencies)
+    * `poetry export --dev --without-hashes | while IFS=  read -r line; do  echo $line | sed -e 's/;.*$//' ; done`
+  * my god , someone needs to make a task runner that does async io ops with python
+
+## Questions
+
+* <https://pypyr.io/> is this task running good?
